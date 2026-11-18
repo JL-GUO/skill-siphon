@@ -1,0 +1,4 @@
+interface:
+  display_name: "吸星大法 · Skill Siphon"
+  short_description: "从热门或指定 skill 中学会领域核心经验、做事方法与判断依据"
+  default_prompt: "用 $skill-siphon 帮我寻找想学领域的热门 skill，选定后提炼成新手能看懂、能应用的学习资料。"

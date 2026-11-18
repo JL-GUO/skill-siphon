@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 560" width="1280" height="560" role="img" aria-label="吸星大法工作原理流程图">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F6F4FE"/>
+    </linearGradient>
+    <linearGradient id="numg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B7CF6"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <linearGradient id="outg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F3F0FF"/>
+      <stop offset="1" stop-color="#E8FBF7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 画布底 -->
+  <rect width="1280" height="560" rx="18" fill="#FBFAFF"/>
+  <rect x="1" y="1" width="1278" height="558" rx="18" fill="none" stroke="#E4DFF5" stroke-width="2"/>
+
+  <!-- 标题 -->
+  <g font-family="'Microsoft YaHei','PingFang SC','Source Han Sans SC','Noto Sans CJK SC',sans-serif">
+    <rect x="56" y="44" width="6" height="30" rx="3" fill="#8B7CF6"/>
+    <text x="78" y="68" font-size="26" font-weight="700" fill="#221440">工作原理 · 从一个学习目标到三份能用的资料</text>
+    <text x="78" y="102" font-size="15" fill="#6D5B8F">SEARCH · READ · DISTILL · TEACH · DELIVER · REVIEW</text>
+  </g>
+
+  <!-- 六阶段卡片 -->
+  <g font-family="'Microsoft YaHei','PingFang SC','Source Han Sans SC','Noto Sans CJK SC',sans-serif">
+    <!-- ① 确定学习对象 -->
+    <g>
+      <rect x="56" y="140" width="172" height="196" rx="14" fill="url(#cardbg)" stroke="#E4DFF5" stroke-width="1.5"/>
+      <circle cx="86" cy="176" r="17" fill="url(#numg)"/>
+      <text x="86" y="182" text-anchor="middle" font-size="17" font-weight="700" fill="#FFFFFF">1</text>
+      <text x="72" y="228" font-size="17" font-weight="700" fill="#221440">确定学习对象</text>
+      <text x="72" y="258" font-size="12.5" fill="#5B4B7A">给领域就搜高星候选，</text>
+      <text x="72" y="280" font-size="12.5" fill="#5B4B7A">等你选定再深读；</text>
+      <text x="72" y="302" font-size="12.5" fill="#5B4B7A">给链接就直接开卷。</text>
+    </g>
+    <!-- 箭头 -->
+    <path d="M 234 238 L 256 238 M 248 231 L 256 238 L 248 245" stroke="#8B7CF6" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- ② 读到经验成立处 -->
+    <g>
+      <rect x="262" y="140" width="172" height="196" rx="14" fill="url(#cardbg)" stroke="#E4DFF5" stroke-width="1.5"/>
+      <circle cx="292" cy="176" r="17" fill="url(#numg)"/>
+      <text x="292" y="182" text-anchor="middle" font-size="17" font-weight="700" fill="#FFFFFF">2</text>
+      <text x="278" y="228" font-size="17" font-weight="700" fill="#221440">读到经验成立处</text>
+      <text x="278" y="258" font-size="12.5" fill="#5B4B7A">从 SKILL.md 沿引用深读，</text>
+      <text x="278" y="280" font-size="12.5" fill="#5B4B7A">找做法、判断依据、</text>
+      <text x="278" y="302" font-size="12.5" fill="#5B4B7A">例外与反例藏在哪。</text>
+    </g>
+    <path d="M 440 238 L 462 238 M 454 231 L 462 238 L 454 245" stroke="#8B7CF6" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- ③ 蒸馏核心经验 -->
+    <g>
+      <rect x="468" y="140" width="172" height="196" rx="14" fill="url(#cardbg)" stroke="#E4DFF5" stroke-width="1.5"/>
+      <circle cx="498" cy="176" r="17" fill="url(#numg)"/>
+      <text x="498" y="182" text-anchor="middle" font-size="17" font-weight="700" fill="#FFFFFF">3</text>
+      <text x="484" y="228" font-size="17" font-weight="700" fill="#221440">蒸馏核心经验</text>
+      <text x="484" y="258" font-size="12.5" fill="#5B4B7A">只留会改变行动的内容，</text>
+      <text x="484" y="280" font-size="12.5" fill="#5B4B7A">把步骤讲成门道，</text>
+      <text x="484" y="302" font-size="12.5" fill="#5B4B7A">取舍与例外不丢。</text>
+    </g>
+    <path d="M 646 238 L 668 238 M 660 231 L 668 238 L 660 245" stroke="#8B7CF6" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- ④ 转成新手能懂 -->
+    <g>
+      <rect x="674" y="140" width="172" height="196" rx="14" fill="url(#cardbg)" stroke="#E4DFF5" stroke-width="1.5"/>
+      <circle cx="704" cy="176" r="17" fill="url(#numg)"/>
+      <text x="704" y="182" text-anchor="middle" font-size="17" font-weight="700" fill="#FFFFFF">4</text>
+      <text x="690" y="228" font-size="17" font-weight="700" fill="#221440">转成新手能懂</text>
+      <text x="690" y="258" font-size="12.5" fill="#5B4B7A">术语先翻译成人话，</text>
+      <text x="690" y="280" font-size="12.5" fill="#5B4B7A">一个贯穿案例走全程，</text>
+      <text x="690" y="302" font-size="12.5" fill="#5B4B7A">专业深度不缩水。</text>
+    </g>
+    <path d="M 852 238 L 874 238 M 866 231 L 874 238 L 866 245" stroke="#8B7CF6" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- ⑤ 生成三份资料 -->
+    <g>
+      <rect x="880" y="140" width="172" height="196" rx="14" fill="url(#cardbg)" stroke="#E4DFF5" stroke-width="1.5"/>
+      <circle cx="910" cy="176" r="17" fill="url(#numg)"/>
+      <text x="910" y="182" text-anchor="middle" font-size="17" font-weight="700" fill="#FFFFFF">5</text>
+      <text x="896" y="228" font-size="17" font-weight="700" fill="#221440">生成三份资料</text>
+      <text x="896" y="258" font-size="12.5" fill="#5B4B7A">学习指南讲清门道，</text>
+      <text x="896" y="280" font-size="12.5" fill="#5B4B7A">上手实践给工作表，</text>
+      <text x="896" y="302" font-size="12.5" fill="#5B4B7A">来源边界可回查。</text>
+    </g>
+    <path d="M 1058 238 L 1080 238 M 1072 231 L 1080 238 L 1072 245" stroke="#8B7CF6" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- ⑥ 检查并交付 -->
+    <g>
+      <rect x="1086" y="140" width="138" height="196" rx="14" fill="#F5F2FF" stroke="#D8CCF8" stroke-width="1.5"/>
+      <circle cx="1116" cy="176" r="17" fill="url(#numg)"/>
+      <text x="1116" y="182" text-anchor="middle" font-size="17" font-weight="700" fill="#FFFFFF">6</text>
+      <text x="1102" y="228" font-size="17" font-weight="700" fill="#221440">检查并交付</text>
+      <text x="1102" y="258" font-size="12.5" fill="#5B4B7A">来源能追、</text>
+      <text x="1102" y="280" font-size="12.5" fill="#5B4B7A">读者能行动、</text>
+      <text x="1102" y="302" font-size="12.5" fill="#5B4B7A">文件可用即交付。</text>
+    </g>
+  </g>
+
+  <!-- 汇入产物 -->
+  <g font-family="'Microsoft YaHei','PingFang SC','Source Han Sans SC','Noto Sans CJK SC',sans-serif">
+    <path d="M 1155 336 L 1155 372 M 1148 364 L 1155 372 L 1162 364" stroke="#8B7CF6" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 142 336 C 142 372, 200 386, 260 392" stroke="#8B7CF6" stroke-width="2" fill="none" stroke-dasharray="4 6" opacity="0.5"/>
+    <path d="M 554 336 C 554 380, 580 390, 620 392" stroke="#8B7CF6" stroke-width="2" fill="none" stroke-dasharray="4 6" opacity="0.5"/>
+    <path d="M 760 336 C 760 380, 740 390, 706 392" stroke="#8B7CF6" stroke-width="2" fill="none" stroke-dasharray="4 6" opacity="0.5"/>
+
+    <text x="56" y="428" font-size="16" font-weight="700" fill="#6D28D9">交付产物 · 默认三份 Markdown，短小可合并</text>
+
+    <!-- 产物卡 1 -->
+    <rect x="56" y="448" width="368" height="76" rx="12" fill="url(#outg)" stroke="#D8CCF8" stroke-width="1.5"/>
+    <text x="80" y="480" font-size="15.5" font-weight="700" fill="#221440">01_学习指南.md</text>
+    <text x="80" y="506" font-size="12.5" fill="#5B4B7A">核心经验、具体做法、理由取舍、常见错误与合格标准</text>
+
+    <!-- 产物卡 2 -->
+    <rect x="456" y="448" width="368" height="76" rx="12" fill="url(#outg)" stroke="#D8CCF8" stroke-width="1.5"/>
+    <text x="480" y="480" font-size="15.5" font-weight="700" fill="#221440">02_上手实践.md</text>
+    <text x="480" y="506" font-size="12.5" fill="#5B4B7A">完整示范 + 可迁移到自己任务的工作表与检查工具</text>
+
+    <!-- 产物卡 3 -->
+    <rect x="856" y="448" width="368" height="76" rx="12" fill="url(#outg)" stroke="#D8CCF8" stroke-width="1.5"/>
+    <text x="880" y="480" font-size="15.5" font-weight="700" fill="#221440">03_来源与边界.md</text>
+    <text x="880" y="506" font-size="12.5" fill="#5B4B7A">来源与热度口径、阅读范围、修正说明与资料缺口</text>
+  </g>
+</svg>

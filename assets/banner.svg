@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-label="吸星大法 Skill Siphon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#120A22"/>
+      <stop offset="0.55" stop-color="#221440"/>
+      <stop offset="1" stop-color="#150D28"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.76" cy="0.48" r="0.55">
+      <stop offset="0" stop-color="#8B7CF6" stop-opacity="0.32"/>
+      <stop offset="0.45" stop-color="#5EEAD4" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#8B7CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#8B7CF6"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#glow)"/>
+
+  <!-- 吸纳流线：右侧星点沿曲线汇入光核 -->
+  <g stroke="#8B7CF6" fill="none" stroke-linecap="round">
+    <path d="M 1280 60 C 1180 80, 1120 130, 1052 178" stroke-width="2" stroke-opacity="0.55" stroke-dasharray="2 10"/>
+    <path d="M 1280 150 C 1190 158, 1130 176, 1060 194" stroke-width="2" stroke-opacity="0.65" stroke-dasharray="2 9"/>
+    <path d="M 1280 236 C 1188 232, 1128 222, 1058 212" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="2 8"/>
+    <path d="M 1280 322 C 1190 306, 1130 272, 1060 232" stroke-width="2" stroke-opacity="0.55" stroke-dasharray="2 10"/>
+    <path d="M 1280 396 C 1178 372, 1118 312, 1052 252" stroke-width="2" stroke-opacity="0.4" stroke-dasharray="2 11"/>
+    <path d="M 1218 8 C 1168 68, 1122 128, 1058 184" stroke-width="2" stroke-opacity="0.35" stroke-dasharray="2 11"/>
+    <path d="M 1108 0 C 1096 68, 1080 132, 1056 180" stroke-width="2" stroke-opacity="0.3" stroke-dasharray="2 12"/>
+    <path d="M 1012 420 C 1022 350, 1036 286, 1052 244" stroke-width="2" stroke-opacity="0.35" stroke-dasharray="2 11"/>
+  </g>
+
+  <!-- 汇流星点 -->
+  <g fill="#A78BFA">
+    <circle cx="1246" cy="72" r="3.2" opacity="0.75"/>
+    <circle cx="1208" cy="118" r="2.6" opacity="0.6"/>
+    <circle cx="1170" cy="150" r="3.6" opacity="0.8"/>
+    <circle cx="1132" cy="176" r="2.4" opacity="0.55"/>
+    <circle cx="1096" cy="190" r="3" opacity="0.7"/>
+    <circle cx="1252" cy="162" r="2.8" opacity="0.65"/>
+    <circle cx="1196" cy="172" r="2.2" opacity="0.5"/>
+    <circle cx="1146" cy="192" r="3.4" opacity="0.75"/>
+    <circle cx="1092" cy="202" r="2.5" opacity="0.6"/>
+    <circle cx="1256" cy="238" r="3" opacity="0.7"/>
+    <circle cx="1198" cy="234" r="2.4" opacity="0.55"/>
+    <circle cx="1142" cy="224" r="3.2" opacity="0.75"/>
+    <circle cx="1088" cy="216" r="2.6" opacity="0.6"/>
+    <circle cx="1244" cy="312" r="2.8" opacity="0.65"/>
+    <circle cx="1188" cy="294" r="3.4" opacity="0.8"/>
+    <circle cx="1136" cy="268" r="2.2" opacity="0.5"/>
+    <circle cx="1092" cy="242" r="3" opacity="0.7"/>
+    <circle cx="1236" cy="382" r="2.6" opacity="0.55"/>
+    <circle cx="1180" cy="352" r="3.2" opacity="0.7"/>
+    <circle cx="1128" cy="306" r="2.4" opacity="0.55"/>
+    <circle cx="1082" cy="268" r="2.8" opacity="0.65"/>
+    <circle cx="1190" cy="26" r="2.6" opacity="0.5"/>
+    <circle cx="1148" cy="76" r="3" opacity="0.65"/>
+    <circle cx="1112" cy="128" r="2.3" opacity="0.5"/>
+    <circle cx="1084" cy="162" r="2.9" opacity="0.65"/>
+    <circle cx="1074" cy="44" r="2.4" opacity="0.45"/>
+    <circle cx="1064" cy="112" r="2.8" opacity="0.6"/>
+    <circle cx="1052" cy="356" r="2.6" opacity="0.5"/>
+    <circle cx="1038" cy="300" r="2.2" opacity="0.45"/>
+    <circle cx="1024" cy="252" r="2.8" opacity="0.6"/>
+    <circle cx="1262" cy="98" r="2.4" opacity="0.55"/>
+    <circle cx="1210" cy="212" r="2.2" opacity="0.5"/>
+    <circle cx="1158" cy="132" r="2.7" opacity="0.6"/>
+    <circle cx="1104" cy="292" r="2.3" opacity="0.5"/>
+  </g>
+
+  <!-- 光核 -->
+  <circle cx="1050" cy="208" r="86" fill="#8B7CF6" opacity="0.12"/>
+  <circle cx="1050" cy="208" r="52" fill="#5EEAD4" opacity="0.14"/>
+  <circle cx="1050" cy="208" r="26" fill="url(#orb)" opacity="0.95"/>
+  <circle cx="1050" cy="208" r="26" fill="none" stroke="#E9D5FF" stroke-width="2" opacity="0.8"/>
+  <circle cx="1050" cy="208" r="40" fill="none" stroke="#8B7CF6" stroke-width="1.5" opacity="0.5" stroke-dasharray="3 8"/>
+  <circle cx="1050" cy="208" r="56" fill="none" stroke="#5EEAD4" stroke-width="1" opacity="0.3" stroke-dasharray="2 10"/>
+
+  <!-- 左侧文案 -->
+  <g font-family="'Microsoft YaHei','PingFang SC','Source Han Sans SC','Noto Sans CJK SC',sans-serif">
+    <rect x="80" y="64" width="222" height="36" rx="18" fill="none" stroke="#8B7CF6" stroke-opacity="0.75" stroke-width="1.5"/>
+    <text x="191" y="88" text-anchor="middle" font-size="15" letter-spacing="3" fill="#A78BFA">AGENT SKILL · 开源技能</text>
+
+    <text x="80" y="188" font-size="64" font-weight="700" fill="#FFFFFF">吸星大法 · Skill Siphon</text>
+
+    <rect x="80" y="212" width="196" height="4" rx="2" fill="url(#gold)"/>
+
+    <text x="80" y="278" font-size="27" font-weight="600" fill="#A5B4FC">吸纳众 Skill 之长，凝练识见以明判</text>
+
+    <text x="80" y="326" font-size="17" fill="#9D8CC8" letter-spacing="0.5">Absorb the strengths of many skills. Distill insight. Sharpen judgment.</text>
+
+    <text x="80" y="372" font-size="15" fill="#6D5B8F" letter-spacing="1">SEARCH  ·  READ  ·  DISTILL  ·  TEACH  ·  DELIVER</text>
+  </g>
+
+  <!-- 底部紫青线 -->
+  <rect x="0" y="412" width="1280" height="8" fill="url(#gold)"/>
+</svg>
