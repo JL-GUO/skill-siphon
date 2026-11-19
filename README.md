@@ -170,7 +170,8 @@ skill-siphon/
 │   └── openai.yaml           # Agent 界面元数据
 ├── assets/
 │   ├── banner.svg            # 仓库横幅
-│   ├── hero-art.jpg          # 头图插画 · 技能炼化图卷
+│   ├── hero-art.jpg          # 头图插画 · 技能炼化图卷（中文版）
+│   ├── hero-art-en.jpg       # 头图插画 · 羊皮纸技能汲取（英文版）
 │   ├── workflow.svg          # 工作原理流程图
 │   └── wechat-qrcode.jpg     # 公众号二维码
 ├── README.md                 # 你正在读的文件

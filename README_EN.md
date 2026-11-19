@@ -29,6 +29,12 @@
 A field / a top skill → search & choose → deep-read the source → distill the essence → 3 learning files → your own judgment
 ```
 
+<div align="center">
+
+<img src="assets/hero-art-en.jpg" alt="Open Source Skill-Siphon — Distill Any Skill, Learn from the Experts: SKILL files are drawn into a golden cauldron of distilled knowledge" width="100%">
+
+</div>
+
 * * *
 
 ## ✨ What it does
@@ -168,7 +174,10 @@ skill-siphon/
 │   └── openai.yaml           # Agent interface metadata
 ├── assets/
 │   ├── banner.svg            # Repository banner
-│   └── workflow.svg          # Pipeline diagram
+│   ├── hero-art.jpg          # Hero art (CN) · Skill-refining scroll
+│   ├── hero-art-en.jpg       # Hero art (EN) · Parchment fantasy
+│   ├── workflow.svg          # Pipeline diagram
+│   └── wechat-qrcode.jpg     # WeChat QR code
 ├── README.md                 # Chinese README
 ├── README_EN.md              # You are here
 ├── CONTRIBUTING.md           # Contribution guide
