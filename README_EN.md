@@ -84,6 +84,13 @@ Once installed, just tell your agent:
 > Install Skill Siphon from https://github.com/JL-GUO/skill-siphon, then verify this environment can discover it.
 ```
 
+### 📦 Install from skills.sh
+
+Also listed in the [skills.sh directory](https://www.skills.sh/jl-guo/skill-siphon/skill-siphon) — one-line install:
+
+```bash
+npx skills add https://github.com/jl-guo/skill-siphon --skill skill-siphon
+```
 
 ### 👤 Manual install
 
