@@ -94,7 +94,7 @@ npx skills add https://github.com/jl-guo/skill-siphon --skill skill-siphon
 
 ### 🧩 Install from Skill Hub
 
-Also published on [Skill Hub](https://skillhub.cn/skills/user_f6bfe863/skill-siphon) — or search for `skill-siphon` right inside **WorkBuddy's skill search** to find and install it.
+Also published on [Skill Hub](https://skillhub.cn/skills/user_f6bfe863/skill-siphon) — search for `skill-siphon` or `吸星大法` right inside **WorkBuddy's skill search** to find and install it.
 
 ### 👤 Manual install
 
