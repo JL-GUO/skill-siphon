@@ -98,7 +98,7 @@ Also published on [Skill Hub](https://skillhub.cn/skills/user_f6bfe863/skill-sip
 
 ### 📕 Red Skill on Xiaohongshu
 
-Also published on **Red Skill**, the skill feature of Xiaohongshu (RED) — search for `吸星大法.skill` inside the Xiaohongshu app to find and add it.
+Also published on **Red Skill**, the skill feature of Xiaohongshu (RED) — search for `吸星大法.skill` inside the Xiaohongshu app to find and use it.
 
 ### 👤 Manual install
 
