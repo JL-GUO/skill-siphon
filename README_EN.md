@@ -213,15 +213,15 @@ Docs, translations, and typo fixes may go straight to PR. Full rules in [CONTRIB
 
 * * *
 
-## 📮 Follow my column
+## 🧑‍💻 About the author
 
-I run a WeChat public account called **AI Buyer Show (「AI买家秀」)** — sharing hands-on AI tool reviews, practical tips, and clear-headed explainers, bringing overhyped AI back down to earth. If you're also figuring out how to make AI work in real projects, scan the QR code below to follow.
+The author also writes the WeChat column AI Buyer Show (「AI买家秀」), covering hands-on AI tool reviews and explainers.
 
 <div align="center">
 
 <img src="assets/wechat-qrcode.jpg" alt="AI Buyer Show · WeChat QR code" width="220">
 
-*Scan with WeChat to follow 「AI买家秀」*
+*AI Buyer Show (「AI买家秀」) · QR code*
 
 </div>
 
