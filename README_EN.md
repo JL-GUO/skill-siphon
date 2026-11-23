@@ -191,7 +191,8 @@ skill-siphon/
 │   ├── banner.svg            # Repository banner
 │   ├── hero-art.jpg          # Hero art (CN) · Skill-refining scroll
 │   ├── hero-art-en.jpg       # Hero art (EN) · Parchment fantasy
-│   └── workflow.svg          # Pipeline diagram
+│   ├── workflow.svg          # Pipeline diagram
+│   └── wechat-qrcode.jpg     # WeChat QR code
 ├── README.md                 # Chinese README
 ├── README_EN.md              # You are here
 ├── CONTRIBUTING.md           # Contribution guide
@@ -212,9 +213,17 @@ Docs, translations, and typo fixes may go straight to PR. Full rules in [CONTRIB
 
 * * *
 
-## 🧑‍💻 About the author
+## 📮 Follow my column
 
-JL-GUO — WeChat column: AI Buyer Show (「AI买家秀」), AI tool reviews and explainers.
+I run a WeChat public account called **AI Buyer Show (「AI买家秀」)** — sharing hands-on AI tool reviews, practical tips, and clear-headed explainers, bringing overhyped AI back down to earth. If you're also figuring out how to make AI work in real projects, scan the QR code below to follow.
+
+<div align="center">
+
+<img src="assets/wechat-qrcode.jpg" alt="AI Buyer Show · WeChat QR code" width="220">
+
+*Scan with WeChat to follow 「AI买家秀」*
+
+</div>
 
 * * *
 
