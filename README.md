@@ -188,8 +188,7 @@ skill-siphon/
 │   ├── banner.svg            # 仓库横幅
 │   ├── hero-art.jpg          # 头图插画 · 技能炼化图卷（中文版）
 │   ├── hero-art-en.jpg       # 头图插画 · 羊皮纸技能汲取（英文版）
-│   ├── workflow.svg          # 工作原理流程图
-│   └── wechat-qrcode.jpg     # 公众号二维码
+│   └── workflow.svg          # 工作原理流程图
 ├── README.md                 # 你正在读的文件
 ├── README_EN.md              # English version
 ├── CONTRIBUTING.md           # 贡献指南
@@ -210,17 +209,9 @@ skill-siphon/
 
 * * *
 
-## 📮 关注我的公众号
+## 🧑‍💻 关于作者
 
-我在运营个人公众号 **「AI买家秀」**——分享 AI 工具的实测体验、使用心得与科普内容，把吹上天的 AI 落地回人间。如果你也在摸索怎么把 AI 用进真实工作，欢迎扫码关注。
-
-<div align="center">
-
-<img src="assets/wechat-qrcode.jpg" alt="AI买家秀 · 公众号二维码" width="220">
-
-*微信扫码，关注「AI买家秀」*
-
-</div>
+JL-GUO · 公众号「AI买家秀」（AI 工具实测与科普）。
 
 * * *
 
