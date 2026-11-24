@@ -1,6 +1,10 @@
 ---
 name: skill-siphon
-description: 'Use when 用户希望从优秀或热门 skill 中学习某领域的核心经验、工作方法和判断能力，或要求把指定 skill 的精华转为易懂、可应用的学习资料。适用于“我想学某领域”“找高星 skill 带我学”“提炼这个 skill 的门道”等请求。English triggers: "I want to learn [X]", "find top-rated skills in [X] and let me pick one", "distill this skill", "turn this skill into learning materials".'
+description: 'Use when 用户希望从优秀或热门 skill 中学习某领域的核心经验、工作方法和判断能力，或要求把指定 skill 的精华转为易懂、可应用的学习资料。适用于“我想学某领域”“找高星 skill 带我学”“提炼这个 skill 的门道”等请求。English triggers: "I want to learn [X]", "find top-rated skills in [X] and let me pick one", "distill this skill", "turn this skill into learning materials". 不用于直接教授领域知识（用户未要求从 skill 学习时）、安装 skill 或编写 skill。Not for teaching a domain directly without a learn-from-skills intent, installing skills, or writing skills.'
+license: MIT
+metadata:
+  author: jlguo
+  version: "1.0.0"
 ---
 
 # 吸星大法 · Skill Siphon
