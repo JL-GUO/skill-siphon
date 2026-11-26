@@ -4,7 +4,7 @@ description: 'Use when 用户希望从优秀或热门 skill 中学习某领域�
 license: MIT
 metadata:
   author: jlguo
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # 吸星大法 · Skill Siphon
@@ -17,7 +17,7 @@ metadata:
 
 | 用户输入 | 处理方式 |
 |---|---|
-| 一个领域或学习目标 | 执行内置 [find_skills](references/find_skills.md)，并辅以联网搜索或 GitHub 搜索（个别 skill 用 find_skills 搜不到），搜索相关高星或热门 skill，展示有区别的候选，让用户选择 |
+| 一个领域或学习目标 | 按 [find_skills 模块流程](references/find_skills.md) 执行，并辅以联网搜索或 GitHub 搜索（个别 skill 用 find_skills 搜不到），搜索相关高星或热门 skill，展示有区别的候选，让用户选择 |
 | 明确的名称、路径、链接或文件 | 直接定位并读取；名称不唯一时才澄清 |
 | 一个技能合集 | 围绕学习目标选择相互衔接的核心组件，说明范围 |
 | 继续上一轮学习 | 沿用已选来源与用户反馈，补充所需内容 |
