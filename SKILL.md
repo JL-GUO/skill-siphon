@@ -11,7 +11,11 @@ metadata:
 
 **吸纳众Skill之长，凝练识见以明判**
 
+**Absorb the strengths of many skills. Distill insight. Sharpen judgment.**
+
 把优秀 skill 中可学习的工作经验，转为人能理解、练习和应用的资料。读者应逐步学会这项工作怎样做、为何这样做、怎样判断好坏，以及情况变化时如何调整。判断力包含在实际工作能力之中。
+
+It turns the learnable working experience found in excellent skills into materials you can **understand, practice, and apply**. Step by step, the reader learns how the work is done, why it's done this way, how to judge quality, and how to adapt when things change. Judgment lives inside practical ability.
 
 ## 一、先确定学习对象
 
